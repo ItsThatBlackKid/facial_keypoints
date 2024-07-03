@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "root_dir": "/home/jupyteruser",
+  "secure": false,
+  "sock": "",
+  "token": "f9a3bd4e9f2c3be01cd629154cfb224c2703181e050254b5",
+  "url": "http://f7e8da5e917a:8888/",
+  "version": "2.13.0"
+}

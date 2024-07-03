@@ -1,0 +1,13 @@
+{
+  "shell_port": 53219,
+  "iopub_port": 41167,
+  "stdin_port": 48349,
+  "control_port": 60201,
+  "hb_port": 45487,
+  "ip": "127.0.0.1",
+  "key": "3e376516-660a89c8f3cf6df9c8509dc4",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyteruser/pytorch_notebook-ed534b4f-7b00-4bcb-928b-e028468fb495.ipynb"
+}
